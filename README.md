@@ -65,6 +65,14 @@
 <img align="right" height="150" src="https://dl.openseauserdata.com/cache/originImage/files/88bd4aaa3b0377ce176a38c3af5e4227.gif"  />
 
 ###
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; height: 100%;">
+  <a href="https://profile.intra.42.fr/users/svolodin" style="flex: 1; text-align: center;">
+    <img src="https://badge.mediaplus.ma/greenbinary/svolodin" alt="42 stats" />
+  </a>
+  <a href="https://open.spotify.com/user/21g24mhgeobaxnr2ojyxckeey" style="flex: 1; text-align: center;">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g24mhgeobaxnr2ojyxckeey&count=3" alt="Spotify recently played" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=oldault&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -72,11 +80,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; height: 100%;">
-  <a href="https://open.spotify.com/user/21g24mhgeobaxnr2ojyxckeey" style="flex: 1; text-align: center;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g24mhgeobaxnr2ojyxckeey&count=3" alt="Spotify recently played" />
-  </a>
-</div>
+
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; height: 100%;">
   <a href="https://profile-counter.glitch.me/oldault/count.svg?" style="flex: 1; text-align: center;">
     <img src="https://profile-counter.glitch.me/oldault/count.svg?" />
