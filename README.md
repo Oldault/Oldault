@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Simon and I'm a student at 42 Paris.</h1>
+<h1 align="left">Salutations distinguées</h1>
 
 ###
 
